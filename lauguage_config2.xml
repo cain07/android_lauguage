@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Sheet>
+	<SheetFile>
+		<lauguage>values</lauguage>
+		<sheetname>MusicPlayer</sheetname>
+		<filename>music</filename>
+		<stringkey>0</stringkey>
+		<stringvalue>2</stringvalue>
+	</SheetFile>
+
+	<SheetFile>
+		<lauguage>values-en</lauguage>
+		<sheetname>MusicPlayer</sheetname>
+		<filename>music</filename>
+		<stringkey>0</stringkey>
+		<stringvalue>3</stringvalue>
+	</SheetFile>
+
+</Sheet>

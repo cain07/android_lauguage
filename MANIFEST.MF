@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/commons-collections4-4.1.jar lib/dom4j-1.6.1.jar lib/jackson-annotations-2.2.3.jar lib/jackson-core-2.2.3.jar lib/jackson-databind-2.2.3.jar lib/poi-3.17.jar lib/poi-ooxml-3.17.jar lib/poi-ooxml-schemas-3.17.jar lib/poi-scratchpad-3.17.jar lib/xmlbeans-2.6.0.jar
+Main-Class: ResourcesBuilder
+

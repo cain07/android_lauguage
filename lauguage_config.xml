@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Internation>
+	<fileinput></fileinput>
+	<Sheets>
+		<Sheet>
+			<SheetFile>
+				<lauguage>zh</lauguage>
+				<sheetname>MusicPlayer</sheetname>
+				<filename>music</filename>
+				<stringkey>1</stringkey>
+				<stringvalue>2</stringvalue>
+			</SheetFile>
+
+			<SheetFile>
+				<lauguage>en</lauguage>
+				<sheetname>MusicPlayer</sheetname>
+				<filename>music</filename>
+				<stringkey>1</stringkey>
+				<stringvalue>3</stringvalue>
+			</SheetFile>
+
+		</Sheet>
+
+		<Sheet>
+			<sheetfile>
+				<lauguage>zh</lauguage>
+				<sheetname>MusicPlayer</sheetname>
+				<filename>music</filename>
+				<stringkey>1</stringkey>
+				<stringvalue>2</stringvalue>
+			</sheetfile>
+		</Sheet>
+	</Sheets>
+
+</Internation>
