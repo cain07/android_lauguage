@@ -23,7 +23,7 @@ Android APP 国际化 脚本
 
 4.代码写完以后 打成jar 包 引用了 三方jar 所以生成jar包 麻烦一些 可以根据这个 
 
-     https://blog.csdn.net/wrfccl/article/details/73614194
+   (https://blog.csdn.net/wrfccl/article/details/73614194)
 
 5.把 lauguage_jar 包 放入 android工程 中 
 
