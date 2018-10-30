@@ -15,10 +15,18 @@ Android APP 国际化 脚本
 用 myeclipse 建立一个 java工程 
 
 1.首先 读取 excel 表格 这里 引入了 读取 excel 的一些jar包 
+
+
 2.每一个 sheet 生成一个 xml 文件 并 放入 规定的 文件夹里 values-en
-3.代码写完以后 打成jar 包 
-4.jar 包 放入 android工程 中 
-5.可以执行 命令行  
+
+3.根据 config.json 配置文件 生成 xml 文件 每次都可以改成 excel 文件里的
+
+4.代码写完以后 打成jar 包 
+
+5.jar 包 放入 android工程 中 
+
+6.可以执行 命令行  
+
 
 
 # contribute 
