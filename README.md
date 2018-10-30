@@ -21,9 +21,11 @@ Android APP 国际化 脚本
 
 3.根据 config.json 配置文件 生成 xml 文件 每次都可以改成 excel 文件里的
 
-4.代码写完以后 打成jar 包 
+4.代码写完以后 打成jar 包 引用了 三方jar 所以生成jar包 麻烦一些 可以根据这个 
 
-5.jar 包 放入 android工程 中 
+     https://blog.csdn.net/wrfccl/article/details/73614194
+
+5.把 lauguage_jar 包 放入 android工程 中 
 
 6.可以执行 命令行  
 
